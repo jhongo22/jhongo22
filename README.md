@@ -1,57 +1,32 @@
 <div align="center">
 
-<!-- HEADER BRANDING DINÁMICO CON ESTÉTICA DARK & CRIMSON -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:09090b,100:dc2626&height=190&section=header&text=JHON%20GONZALEZ&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20AI%20Architect%20%7C%20Founder%20%40%20Autonomek&descAlignY=64&descAlign=50" width="100%" alt="Jhon Gonzalez Header"/>
+# ⚡ JHON GONZALEZ
+
+### Full Stack Software Engineer • AI & Process Automation Specialist
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer+%E2%9A%A1;Webs+de+Alto+Rendimiento+%2B+SEO+%2B+GEO+%2B+AEO;Backend+Robusto+%7C+APIs+REST+%7C+Bases+de+Datos;Automatizaci%C3%B3n+de+Procesos+Operativos+con+n8n;Integraci%C3%B3n+de+Agentes+de+IA+%2B+RAG+%2B+MCP;GTM+%2B+Google+Analytics+4+%2B+Search+Console" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%2B+AI+Automation+Specialist;Fundador+%26+Lead+Engineer+en+Autonomek+%E2%9A%A1;Construyendo+Agentes+Aut%C3%B3nomos%2C+RAG+y+MCP;Next.js+15+%7C+TypeScript+%7C+Supabase+%7C+n8n;Transformando+operaciones+en+ecosistemas+aut%C3%B3nomos" alt="Typing SVG" />
-  </a>
+  <b>Medellín, Colombia 🇨🇴 &nbsp;•&nbsp; Soluciones Reales • Automatización Operativa • Backend Robusto & Web de Alto Rendimiento</b>
 </p>
 
-<p align="center">
-  <b>Medellín, Colombia 🇨🇴 &nbsp;•&nbsp; Soluciones Digitales de Alto Rendimiento</b>
-</p>
-
-<p align="center">
-  <a href="https://autonomek.com" target="_blank">
-    <img src="https://img.shields.io/badge/Agencia-AUTONOMEK-000000?style=for-the-badge&logo=next.js&logoColor=white&borderColor=dc2626&borderWidth=1" alt="Autonomek"/>
-  </a>
-  <a href="https://wa.me/573004435894" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat_Directo-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:jhonneider1234567@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/jhongo22?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositorios-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/jhongo22?tab=repositories)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhongo22)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonneider1234567@gmail.com)
 
 </div>
 
 ---
 
-### ⚡ Sobre mí & Manifiesto
+### 🚀 Sobre mí
 
-```typescript
-const jhonGonzalez = {
-  identidad: "Desarrollador Full Stack & Arquitecto de Soluciones con IA",
-  agencia: "Autonomek (Founder & Lead Developer)",
-  base: "Medellín, Colombia 📍",
-  filosofia: "El software moderno no solo debe verse impecable; debe operar y escalar por sí solo.",
-  coreFocus: [
-    "Desarrollo Web Ultra-Rápido (Next.js, TypeScript, Tailwind)",
-    "Agentes de IA Multimodales & RAG Empresarial",
-    "Automatización de Operaciones Complejas (n8n, Webhooks, APIs)",
-    "Integración de Model Context Protocol (MCP) y CRMs"
-  ]
-};
-```
+Soy un **Desarrollador Full Stack** que construye aplicaciones web completas donde el diseño visual, el rendimiento técnico y la arquitectura de datos trabajan de la mano. Aunque desarrollo interfaces modernas y de alto rendimiento, mi diferencial clave no radica en el diseño de visual, sino en mi capacidad para **conectar todos los puntos de la ingeniería de software**: desde el frontend y el backend hasta la automatización de procesos operativos y la visibilidad digital medible.
 
-No me limito a crear sitios web convencionales: **diseño y construyo ecosistemas digitales autónomos**. 
-
-Como fundador de **[Autonomek](https://autonomek.com)**, ayudo a empresas a reemplazar tareas repetitivas y fricciones operativas con **arquitecturas web modernas**, **agentes de IA 24/7** (capaces de procesar texto, voz y visión artificial para verificar comprobantes de pago) y **automatizaciones de flujos de trabajo de punta a punta**.
+Cuento con amplia experiencia en la **planificación e integración de plataformas complejas** (sincronización de APIs externas, webhooks y flujos avanzados), así como en la implementación de **estrategias modernas de visibilidad digital**: optimización técnica para motores de búsqueda tradicionales (**SEO**) y para motores de respuesta impulsados por IA (**GEO** y **AEO**). Además, estructuro la medición técnica con **Google Tag Manager (GTM), Analytics y Search Console** para validar el tráfico y la conversión real del producto.
 
 ---
 
@@ -60,12 +35,12 @@ Como fundador de **[Autonomek](https://autonomek.com)**, ayudo a empresas a reem
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Frontend & Experiencia de Usuario</h4>
+      <h4>💻 Frontend & Web de Alto Rendimiento</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" /><br>
-        • <b>Next.js 15 & React 19</b>: Server Components, arquitecturas de renderizado híbrido.<br>
-        • <b>TypeScript & Tailwind CSS</b>: Tipado estricto, interfaces reactivas y minimalistas.<br>
-        • <b>Framer Motion</b>: Microinteracciones y transiciones fluidas de alto impacto.
+        • <b>Next.js y React</b>: Server Components, Server-Side Rendering (SSR) y Core Web Vitals.<br>
+        • <b>SEO, GEO & AEO</b>: Datos estructurados y optimización para Google y motores de IA (ChatGPT, Gemini).<br>
+        • <b>TypeScript & Tailwind CSS</b>: Tipado estricto, interfaces reactivas, modernas y mantenibles.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -73,33 +48,33 @@ Como fundador de **[Autonomek](https://autonomek.com)**, ayudo a empresas a reem
       <p>
         <img src="https://img.shields.io/badge/OpenAI-GPT--4o_%26_Vision-10a37f?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/ElevenLabs-Voice_AI-000000?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG-Vector_Search-2563eb?style=flat-square"/><br>
-        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-dc2626?style=flat-square"/><br>
-        • <b>Agentes Multimodales</b>: Comprensión de voz, extracción de datos y visión OCR.<br>
-        • <b>RAG Empresarial</b>: Bases de conocimiento vectorizadas para respuestas precisas.<br>
-        • <b>Implementación de MCP</b>: Conexión estandarizada de herramientas para modelos IA.
+        <img src="https://img.shields.io/badge/RAG-Vector_Search-0284c7?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-38bdf8?style=flat-square&logoColor=black"/><br>
+        • <b>Agentes Multimodales</b>: Procesamiento de texto, notas de voz e imagenes (OCR).<br>
+        • <b>RAG Empresarial</b>: Documentacion de la empresa convertida en bases de datos vectorizadas para consultas contextuales precisas.<br>
+        • <b>Model Context Protocol (MCP)</b>: Conexión estandarizada de herramientas para modelos de IA.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ Automatización & Flujos (n8n)</h4>
+      <h4>⚙️ Automatización Operativa (n8n)</h4>
       <p>
         <img src="https://img.shields.io/badge/n8n-Workflow_Automation-ea4b71?style=flat-square&logo=n8n&logoColor=white"/>
         <img src="https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
         <img src="https://img.shields.io/badge/Chatwoot-Omnichannel_CRM-1F93FF?style=flat-square"/><br>
-        • <b>Pipelines con n8n</b>: Orquestación de webhooks, lógica de negocio y subflujos.<br>
-        • <b>Omnicanalidad</b>: Sincronización en tiempo real con WhatsApp, Telegram e Instagram.<br>
-        • <b>Lead Gen & CRM</b>: Extracción automática de prospectos y cualificación con IA.
+        • <b>Pipelines</b>: Automatización de procesos operativos con webhooks, subflujos y sincronización entre plataformas.<br>
+        • <b>Integración de Canales</b>: Conexión de WhatsApp Cloud API, Instagram, Email y CRMs para atención 24/7.<br>
+        • <b>Agilización Operativa</b>: Eliminación de cuellos de botella manuales en el negocio.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🗄️ Backend, Datos & Cloud</h4>
+      <h4>🗄️ Backend, Datos, Cloud & Medición</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=nodejs,python,laravel,supabase,postgres,mysql,redis,docker" /><br>
-        • <b>Supabase & PostgreSQL Vector</b>: Embeddings, datos en tiempo real y RLS.<br>
-        • <b>Python, Node.js & Laravel</b>: Microservicios, scripts de automatización y APIs robustas.<br>
-        • <b>Vercel, Render & Docker</b>: Despliegues continuos optimizados para baja latencia.
+        • <b>Bases de Datos SQL</b>: Almacenamiento relacional, embeddings vectoriales y RLS.<br>
+        • <b>Python, Node.js & Laravel</b>: Microservicios, scripts de automatización y APIs RESTful seguras.<br>
+        • <b>Analítica & Rastreo</b>: Google Tag Manager (GTM), GA4 y Google Search Console, etc.
       </p>
     </td>
   </tr>
@@ -107,77 +82,80 @@ Como fundador de **[Autonomek](https://autonomek.com)**, ayudo a empresas a reem
 
 ---
 
-### 💼 Proyectos & Soluciones en Producción
+### 💼 Proyectos de Ingeniería Destacados
 
 <table>
   <thead>
     <tr>
       <th align="left">Proyecto</th>
-      <th align="left">Tipo</th>
-      <th align="left">Qué resuelve / Valor agregado</th>
+      <th align="left">Enfoque Técnico</th>
+      <th align="left">Qué resuelve en la operación</th>
       <th align="left">Stack Principal</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://autonomek.com" target="_blank">Autonomek</a></b> 🚀</td>
-      <td>Agencia Digital</td>
-      <td>Ecosistema de soluciones para empresas: desarrollo web estratégico, posicionamiento orgánico y automatización operativa mediante IA.</td>
-      <td><code>Next.js</code> <code>React</code> <code>Tailwind</code> <code>n8n</code> <code>OpenAI</code></td>
-    </tr>
-    <tr>
       <td><b><a href="https://alquilerdeecografos.com" target="_blank">Alquiler de Ecógrafos</a></b> 🩺</td>
-      <td>Plataforma Web Médica</td>
-      <td>Sistema de reserva de ecógrafos en tiempo real, gestión de disponibilidad por calendario, sincronización con Google Sheets y SEO de conversión.</td>
+      <td>Full Stack Web App & SEO</td>
+      <td>Plataforma con calendario interactivo de disponibilidad en tiempo real, validación de reservas y posicionamiento SEO local de alta conversión.</td>
       <td><code>TypeScript</code> <code>Supabase</code> <code>Node.js</code> <code>SEO</code></td>
     </tr>
     <tr>
-      <td><b>Ecosistema IA Clínica Regenerativa</b> 🧠</td>
-      <td>Automatización & CRM</td>
-      <td>Agente de IA autónomo multimodal: procesa audio, texto y comprobantes de pago bancarios por visión, manteniendo memoria de contexto y escalación a humanos vía WhatsApp.</td>
-      <td><code>OpenAI GPT-4o</code> <code>n8n</code> <code>Chatwoot</code> <code>Redis</code></td>
+      <td><b>Ecosistema IA & Agente Multimodal</b> 🧠</td>
+      <td>IA & Automatización CRM</td>
+      <td>Agente inteligente que recibe notas de voz, interpreta texto y valida comprobantes de pago mediante visión artificial, escalando automáticamente a operadores humanos.</td>
+      <td><code>OpenAI GPT-4o</code> <code>n8n</code> <code>Redis</code> <code>Chatwoot</code></td>
     </tr>
     <tr>
       <td><b><a href="https://lajuanacerrotusa.com" target="_blank">La Juana de Cerro Tusa</a></b> 🏡</td>
-      <td>Web Turística Inmersiva</td>
-      <td>Sitio web de alto impacto visual con integración directa y bidireccional a las APIs de Airbnb, Booking y VRBO para evitar overbooking.</td>
-      <td><code>Next.js</code> <code>Tailwind</code> <code>APIs OTA</code> <code>Supabase</code></td>
+      <td>Frontend & Sincronización OTA</td>
+      <td>Sitio web de alto rendimiento visual integrado bidireccionalmente con calendarios y APIs de Airbnb, Booking y VRBO para evitar sobreventa de reservas.</td>
+      <td><code>Next.js</code> <code>Supabase</code> <code>Tailwind</code> <code>APIs OTA</code></td>
     </tr>
     <tr>
       <td><b>Panel de Control de Agentes IA</b> 📊</td>
-      <td>Dashboard SaaS</td>
-      <td>Monitoreo en tiempo real de agentes virtuales: análisis de sentimiento, tiempos de respuesta, modificación de personalidad en caliente y métricas operativas.</td>
-      <td><code>Next.js</code> <code>TypeScript</code> <code>Chart.js</code> <code>n8n Webhooks</code></td>
+      <td>Dashboard SaaS & Analítica</td>
+      <td>Panel en tiempo real para supervisar rendimiento de agentes: análisis de sentimiento, tiempos medios de respuesta y ajuste dinámico de prompts vía webhooks.</td>
+      <td><code>Next.js</code> <code>TypeScript</code> <code>Chart.js</code> <code>n8n</code></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-### 📈 Actividad & Métricas en GitHub
+### 🎯 Valor agregado
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jhongo22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ef4444&icon_color=dc2626&text_color=e4e4e7" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhongo22&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ef4444&text_color=e4e4e7" height="160" alt="Top Languages"/>
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhongo22&theme=tokyonight&hide_border=true&background=000000&stroke=dc2626&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub Streak"/>
-
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔍 Visibilidad en la Era de la IA</h4>
+      <p>
+        <b>SEO + GEO + AEO</b><br>
+        No solo optimizo para Google; estructuro datos semánticos con <b>Schema.org JSON-LD</b> para que los motores de respuesta basados en IA (ChatGPT, Perplexity, Gemini) citen y recomienden la aplicación.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 Medición Técnica & Conversión</h4>
+      <p>
+        <b>GTM, GA4 & Search Console</b><br>
+        Implementación técnica de contenedores con <b>Google Tag Manager</b>, etiquetado de eventos personalizados en <b>Google Analytics 4</b> y auditoría constante de indexación y palabras clave en <b>Search Console</b>.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Integración & Orquestación</h4>
+      <p>
+        <b>APIs Complejas & Automatización</b><br>
+        Planificación y acoplamiento de sistemas dispares (APIs de reservas OTA, CRMs, WhatsApp Cloud API, webhooks y subflujos en n8n) para agilizar flujos de trabajo y operaciones críticas.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 🤝 ¿Hablamos de tu próximo proyecto?
-
-Ya sea para construir una plataforma web de alto impacto, integrar agentes de IA o automatizar las operaciones de tu negocio:
-
-[![WhatsApp](https://img.shields.io/badge/Escríbeme_a_WhatsApp-+57_300_443_5894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573004435894)
-[![Sitio Web](https://img.shields.io/badge/Conoce_la_agencia-autonomek.com-dc2626?style=for-the-badge&logo=firefox&logoColor=white)](https://autonomek.com)
-
-<sub>© Jhon Gonzalez • Autonomek • Medellín, Colombia</sub>
+📫 **¿Conversamos sobre una posición o proyecto técnico?**  
+Escríbeme a [jhonneider1234567@gmail.com](mailto:jhonneider1234567@gmail.com) o hablemos a través de [LinkedIn](https://www.linkedin.com/in/jhongo22).
 
 </div>
